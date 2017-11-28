@@ -1,0 +1,127 @@
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll.config
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.pdb
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Owin.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.xml
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.dll
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.pdb
+C:\_asp.net.mvc\___стационар\Lesson24 SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.csprojResolveAssemblyReference.cache
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll.config
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.pdb
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Owin.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.xml
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.csprojResolveAssemblyReference.cache
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.dll
+D:\Dima\!Шаг\ASP\WebAPI\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.pdb
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll.config
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.pdb
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Owin.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.xml
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.csprojResolveAssemblyReference.cache
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.dll
+D:\Dima\Programming\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.pdb
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll.config
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\WebSignalRFirst.pdb
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Web.Infrastructure.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Owin.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Microsoft.Owin.Security.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\Newtonsoft.Json.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Razor.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Deployment.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Webpages.Razor.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Helpers.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\bin\System.Web.Mvc.xml
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.csprojResolveAssemblyReference.cache
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.dll
+D:\Dima\Programming\git\SignalR\WebSignalRFirst\WebSignalRFirst\obj\Debug\WebSignalRFirst.pdb
